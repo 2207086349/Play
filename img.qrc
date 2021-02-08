@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>redHeart.png</file>
+        <file>madeBy.png</file>
+        <file>theTitle.png</file>
+        <file>HP.png</file>
+    </qresource>
+</RCC>
